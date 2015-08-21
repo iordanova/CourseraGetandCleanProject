@@ -107,7 +107,7 @@ The first two columns are the factor variables "subjects" and "activity". Column
     * X_train.txt is the measurements' vector.
     * y_train.txt is the activity data, with 6 activity levels.
     * subject_train.txt is the subject variable, with 30 levels (people).    
-   * test data with 61 variables and 2947 rows in each table:
+  * test data with 61 variables and 2947 rows in each table:
     * X_test.txt is the measurements' vector.
     * y_test.txt is the activity data, with 6 activity levels.
     * subject_test.txt is the subject variable, with 30 levels (people).
