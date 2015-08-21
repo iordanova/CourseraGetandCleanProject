@@ -7,16 +7,15 @@ output: pdf_document
 # Course Project - Getting and Cleaning data
 
 This is the course project for the Getting and Cleaning Data from Coursera. 
-There are 3 files in this projects:
+There are 3 files in this project:
 
 1.The R script, "run_analysis.R":
 
     Reads data from the working directory.
-    Merges the tets and train datasets together.
+    Merges the test and train datasets together.
     Keeps only the variables representing mean and standard deviation of measurements.
     Converts the activity and subject columns into factors.
-    Creates a tidy data of the average (mean) value of each variable 
-    for each subject and activity (factors).
+    Creates a tidy data of the average (mean) value of each variable for each subject and activity (factors).
     Writes the tidy data to a tidy_data.txt file.
 
 2.The text file, "tidy_data.txt":
